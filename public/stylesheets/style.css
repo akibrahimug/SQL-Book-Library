@@ -1,6 +1,6 @@
 body {
   padding: 10px 50px 50px;
-  font: 18px "Garamond", serif;
+  font: 20px "Garamond", serif;
 }
 
 a {
@@ -51,6 +51,10 @@ ul {
 h2 {
   border-top: 2px solid #e7e7e7;
   padding-top: 20px;
+}
+
+table{
+  width: 80vw;
 }
 
 th {
