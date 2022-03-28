@@ -21,7 +21,7 @@ module.exports = (sequelize) => {
             }
         },
         genre: Sequelize.STRING,
-        year: Sequelize.DATEONLY
+        year: Sequelize.INTEGER
     }, {
         sequelize
     });
